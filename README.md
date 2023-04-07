@@ -2,12 +2,12 @@
 <h3 align="center">A passionate software engineer with 7+ years of experience in architecting, developing and deploying enterprise applications at scale.</h3>
 <br/>
 
-## 🌐 Socials:
+## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dayashankartr)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9406951)
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
@@ -57,7 +57,7 @@
 
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=white)
 
-## 💼 Projects:
+## 💼 Projects
 
 ### [_Arive Web Platform_](https://www.getarive.com/en/deu/welcome)
 
@@ -264,7 +264,7 @@ Tech:
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=trdaya&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=trdaya&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)<br/>
