@@ -17,10 +17,14 @@
 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+
 ![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)
 ![Redux-Saga](https://img.shields.io/badge/Redux--Saga-999999?style=flat&logo=redux-saga&logoColor=white)
 ![SWR](https://img.shields.io/badge/SWR-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+
+![Formik](https://img.shields.io/badge/Formik-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Yup](https://img.shields.io/badge/Yup-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=flat&logo=styled-components&logoColor=white)
@@ -30,6 +34,9 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![HapiJS](https://img.shields.io/badge/Hapi.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+
+![Joi](https://img.shields.io/badge/Joi-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+
 ![Swagger](https://img.shields.io/badge/Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)
 ![Open API](https://img.shields.io/badge/Open%20API-6BA539?style=flat&logo=OpenAPI%20Initiative&logoColor=white)
 
