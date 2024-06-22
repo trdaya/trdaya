@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daya</h1>
-<h3 align="center">A passionate software engineer with 7+ years of experience in architecting, developing and deploying enterprise applications at scale.</h3>
+<h3 align="center">A passionate software engineer with 9+ years of experience in architecting, developing and deploying enterprise applications at scale.</h3>
 <br/>
 
 ## 🌐 Socials
@@ -32,10 +32,12 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
 
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![HapiJS](https://img.shields.io/badge/Hapi.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 
-![Joi](https://img.shields.io/badge/Joi-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![REST API](https://img.shields.io/badge/REST%20API-2596BE?style=flat&logo=trpc&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-2596BE?style=flat&logo=trpc&logoColor=white)
 
 ![Swagger](https://img.shields.io/badge/Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)
 ![Open API](https://img.shields.io/badge/Open%20API-6BA539?style=flat&logo=OpenAPI%20Initiative&logoColor=white)
@@ -51,6 +53,11 @@
 
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=Apache%20Kafka&logoColor=white)
 
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecontaineroptimizedos&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![ELK](https://img.shields.io/badge/ELK-005571?style=flat&logo=elasticstack&logoColor=white)
+
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
@@ -62,6 +69,7 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=Prettier&logoColor=white)
 
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=white)
 
 ## 💼 Projects
