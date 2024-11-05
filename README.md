@@ -74,11 +74,112 @@
 
 ## 💼 Projects
 
+### Turing Engagements Service
+
+Full-stack service for managing and consolidating engagement data across various company resources, including contracts, payroll, billing, and time tracking. Designed to streamline data accessibility by aggregating inputs from multiple sources into a single database, supported with caching for rapid, company-wide access.
+
+<details open>
+<summary>Details</summary>
+
+Features:
+
+- Centralized data aggregation
+- Multi-source data integration
+- Caching mechanisms to optimize performance
+- Secure authentication for data access
+
+</details>
+
+---
+
+### Turing Feedback Synchronization Process
+
+Centralized feedback management system that syncs feedback from various sources to streamline communication and improve engagement tracking.
+
+<details>
+<summary>Details</summary>
+
+Features:
+
+- Manager feedback capture
+- Synchronized developer feedback
+- Feedback dashboard
+
+</details>
+
+---
+
+### Turing Dwell Time Analytics
+
+Dwell-time data capture to provide actionable insights for analytics teams, aiding in data-driven decision-making.
+
+<details>
+<summary>Details</summary>
+
+Features:
+
+- Real-time analytics dashboards
+- Data capture optimized for performance
+
+</details>
+
+---
+
+### Turing Engagement Data Export System
+
+Automated CSV export feature for engagement data, significantly simplifying reporting and data sharing processes.
+
+<details>
+<summary>Details</summary>
+
+Features:
+
+- Exporting data in real-time
+- Optimized for large datasets
+
+</details>
+
+---
+
+### [_Turing Website_](https://www.turing.com/)
+
+Turing’s primary website, enhancing its user interface and back-end functionalities to improve user experience and performance.
+
+<details>
+<summary>Details</summary>
+
+Features:
+
+- User-friendly design elements
+- Optimized for SEO and accessibility
+
+</details>
+
+---
+
+### Turing Internal Portal for Engagements
+
+Internal portal to handle end-to-end engagements, managing data from onboarding to completion, and facilitating smooth internal operations.
+
+<details>
+<summary>Details</summary>
+
+Features:
+
+- Centralized data access for all engagement-related activities
+- Custom dashboards for tracking progress
+- Feedback management
+- Resource management
+
+</details>
+
+---
+
 ### [_Arive Web Platform_](https://www.getarive.com/en/deu/welcome)
 
 Platform for users to shop their favourite products.
 
-<details open>
+<details>
 <summary>Details</summary>
 
 Features:
